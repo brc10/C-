@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BO
+{
+    public class Castumer
+    {
+
+        public int id { get; set; }
+        public string name { get; set; }
+        public string? adress { get; set; }
+        public int phone { get; set; }
+
+        public override string ToString() => this.ToStringProperty();
+        public Castumer(int id, string name, string? adress, int phone)
+        {
+            this.id = id;
+            this.name = name;
+            this.adress = adress;
+            this.phone = phone;
+        }
+    }
+}

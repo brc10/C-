@@ -1,0 +1,31 @@
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.csproj.AssemblyReference.cache
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.AssemblyInfoInputs.cache
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.AssemblyInfo.cs
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.csproj.CoreCompileInputs.cache
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalTest.exe
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalTest.deps.json
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalTest.runtimeconfig.json
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalTest.dll
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalTest.pdb
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalFacade.dll
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalList.dll
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalFacade.pdb
+E:\DotNet2026_6847_3124\DalTest\bin\Debug\net6.0\DalList.pdb
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.csproj.CopyComplete
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.dll
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\refint\DalTest.dll
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.pdb
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.genruntimeconfig.cache
+E:\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\ref\DalTest.dll
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.csproj.AssemblyReference.cache
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.AssemblyInfoInputs.cache
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.AssemblyInfo.cs
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.csproj.CoreCompileInputs.cache
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.dll
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\refint\DalTest.dll
+M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.pdb
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\refint\DalTest.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalTest\obj\Debug\net6.0\DalTest.pdb
