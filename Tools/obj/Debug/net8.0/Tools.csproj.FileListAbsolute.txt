@@ -5,6 +5,7 @@ C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\Tools.AssemblyInfoInputs.cache
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\Tools.AssemblyInfo.cs
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\Tools.csproj.CoreCompileInputs.cache
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\Tools.sourcelink.json
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\Tools.dll
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\refint\Tools.dll
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\Tools\obj\Debug\net8.0\Tools.pdb

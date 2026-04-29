@@ -37,8 +37,17 @@ M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalList\obj\Debug\DalList.dll
 M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalList\obj\Debug\refint\DalList.dll
 M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalList\obj\Debug\DalList.pdb
 M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalList\obj\Debug\ref\DalList.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalList.deps.json
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalList.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalList.pdb
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.AssemblyInfo.cs
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.sourcelink.json
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\refint\DalList.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\DalList.pdb
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalList\obj\Debug\ref\DalList.dll

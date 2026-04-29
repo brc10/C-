@@ -2,6 +2,7 @@
 using DalApi;
 using DO;
 using Dal;
+//using DalList;
 
 namespace DalTest
 {
@@ -108,7 +109,7 @@ namespace DalTest
             string name;
             category cat;
             int price;
-            bool stock;
+            int amount;
 
             Console.WriteLine("Enter the Name of the product:");
             name = Console.ReadLine() ?? "";
@@ -121,15 +122,15 @@ namespace DalTest
             Console.WriteLine("Enter Price:");
             if (!int.TryParse(Console.ReadLine(), out price)) price = 10;
 
-            Console.WriteLine("Is it in stock? (true/false):");
-            if (!bool.TryParse(Console.ReadLine(), out stock)) stock = true;
-
+            Console.WriteLine("Enter amount :");
+            //if (!int.TryParse(Console.ReadLine(), out amount)) amount=amount; 
+            amount = int.Parse(Console.ReadLine() ?? "0");
             // קביעת ה-ID: חדש מהקונפיג או הקיים ששלחנו
             //int finalId = (code == 0) ? DataSource.Config.GetProductId : code;//TODO
 
-            return new Prodact(code, name, cat, price, stock);
+            return new Prodact(code, name, cat, price, amount);
         }
-        private static Sail AskSail(int code = 0)
+        private static Sale AskSail(int code = 0)
         {
             int prodId, count, price;
             bool isForCustomer;
@@ -154,10 +155,10 @@ namespace DalTest
             if (!DateTime.TryParse(Console.ReadLine(), out end)) end = DateTime.Now.AddDays(7);
 
             // קביעת ה-ID (חדש מהקונפיג או קיים)
-            int finalId = (code == 0) ? DataSource.Config.GetSailId : code;
+           // int finalId = (code == 0) ? DataSource.Config.GetSailId : code;
 
             // החזרה לפי הסדר המדויק שהבנאי דורש
-            return new Sail(finalId, prodId, count, price, isForCustomer, start, end);
+            return new Sale(0, prodId, count, price, isForCustomer, start, end);
         }
         private static Castumer AskClient(int id = 0)
         {
@@ -189,7 +190,7 @@ namespace DalTest
             {
                 Prodact p = AskProdact();
                 s_dal.product.Create(p);
-                Console.WriteLine(" ProductId: "+p.ProductId+ " name: "+p.name+ " category: " + p.category+ " price: " + p.price+ " stok: " + p.stok);
+                Console.WriteLine(" ProductId: "+p.ProductId+ " name: "+p.name+ " category: " + p.category+ " price: " + p.price+ " amount: " + p.amount);
 
             }
             catch (Exception e)
@@ -201,9 +202,9 @@ namespace DalTest
         {
             try
             {
-                Sail s = AskSail();
+                Sale s = AskSail();
                 s_dal.sail.Create(s);
-                Console.WriteLine("SailId: " + s.SailId+ " count: " + s.count+ " PriceSail: " + s.PriceSail+ " CastumerSail: " + s.CastumerSail+ " startDate: " + s.startDate+ " idProduct: " + s.idProduct+ " FinishDate: " + s.FinishDate);
+               // Console.WriteLine("SailId: " + s.SailId+ " count: " + s.count+ " PriceSail: " + s.salePrice+ " CastumerSail: " + s.CastumerSail+ " startDate: " + s.startDate+ " idProduct: " + s.idProduct+ " FinishDate: " + s.FinishDate);
             }
             catch (Exception e)
             {
@@ -244,7 +245,7 @@ namespace DalTest
             {
                 Console.WriteLine("enter id");
                 int id = int.Parse(Console.ReadLine());
-                Sail s = AskSail(id);
+                Sale s = AskSail(id);
                 s_dal.sail.Update(s);
             }
             catch (Exception e)
@@ -324,7 +325,11 @@ namespace DalTest
         //private readonly static DalApi.IDal s_dal = new Dal.DalList();
         private static void Main(string[] args)
         {
-            Initalisation.Initialize();
+            Console.WriteLine("if you want to inishilize press one else press 0");
+            int choice = 0;
+            choice = int.Parse(Console.ReadLine());
+            if (choice==1)
+                Initalisation.Initialize();
             int selection;
             do
             {

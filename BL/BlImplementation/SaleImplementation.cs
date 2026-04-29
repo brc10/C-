@@ -7,7 +7,7 @@ using DalApi;
 
 namespace BlImplementation
 {
-    internal interface SailImplementation:Isail
+    internal interface SaleImplementation:Isale
     {
 
     }

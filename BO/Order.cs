@@ -29,7 +29,7 @@ namespace BL.BO
         public string CustomerName { get; set; }
 
         //public override string ToString() => ToStringProperty();
-
+        public Order() { }
         public Order(bool favorite, List<ProductInOrder> products, double finalPrice)
         {
             this.favorite = favorite;

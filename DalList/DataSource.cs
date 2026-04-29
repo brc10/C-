@@ -6,7 +6,7 @@ public static class DataSource
     //יוצר רשימות גנריות 
     internal static List<Castumer>? castumers = new List<Castumer>();
     internal static List<Prodact>? prodacts = new List<Prodact>();
-    internal static List<Sail>? sails = new List<Sail>();
+    internal static List<Sale>? sails = new List<Sale>();
 
     internal static  class Config
     {

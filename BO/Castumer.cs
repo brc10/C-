@@ -22,5 +22,6 @@ namespace BO
             this.adress = adress;
             this.phone = phone;
         }
+        public Castumer() { }
     }
 }

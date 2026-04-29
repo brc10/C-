@@ -5,5 +5,5 @@ namespace DalApi;
     //מאפשר איתחול של הרשימות
     ICastumer castumer { get; }
     Iproduct product { get; }
-    Isail sail { get; }
+    Isale sail { get; }
  }

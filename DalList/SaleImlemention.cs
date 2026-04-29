@@ -2,7 +2,7 @@
 using static Dal.DataSource;
 using DalApi;
 namespace Dal;
-public class SailImlemention:Isail
+public class SaleImlemention:Isale
 {//לשנות שיהיה כמו הלקוחות עם הלוג
     //private List<Sail> sail = new List<Sail>();
     //מממש את כל הICRUD
@@ -10,7 +10,7 @@ public class SailImlemention:Isail
     {
         if (sails.Any(s => s.SailId == item.SailId))
             throw new DO.objectAlreadyExsist(item.SailId);
-
+        item = item with { SailId = Config.GetSailId };
         sails.Add(item);
         return item.SailId;
 

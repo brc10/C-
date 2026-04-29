@@ -1,0 +1,14 @@
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalXml.deps.json
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalXml.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalXml.pdb
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\refint\DalXml.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\DalXml.pdb
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalXml\obj\Debug\ref\DalXml.dll
