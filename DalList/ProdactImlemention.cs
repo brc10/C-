@@ -10,16 +10,19 @@ public class ProdactImlemention:Iproduct
     //מממש את כל הICRUD
     public int Create(Prodact item)
     {
-        if (castumers.Any(p => p.CastumerId == item.ProductId))
+        if (prodacts.Any(p => p.ProductId== item.ProductId))
             throw new DO.objectAlreadyExsist(item.ProductId);
-
+        item =item with { ProductId = Config.GetProductId };
         prodacts.Add(item);
        
         return item.ProductId;
     }
     public Prodact? Read(int id)
     {
-        return prodacts.FirstOrDefault(p => p.ProductId == id);
+        Prodact p = prodacts.FirstOrDefault(p => p.ProductId == id);
+        if ( p==null)
+            throw new DO.objectNotFound(id);
+        return p;
     }
     public List<Prodact> ReadAll(Func<Prodact,bool>filter)
     {

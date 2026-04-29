@@ -1,6 +1,6 @@
 ﻿using DO;
 namespace DalApi;
-public interface Isail:ICrud<Sale>
+public interface Isale:ICrud<Sale>
 {
 
 }

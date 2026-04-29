@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "m8jUXjsgFds=",
+=======
+  "dgSpecHash": "pfpCN1CG/+I=",
+>>>>>>> 694fd00deb8431271c3bf2bc0f54f2476e621e5c
   "success": true,
   "projectFilePath": "E:\\שנה ב\\פרויקט1\\DalTest\\DalTest.csproj",
   "expectedPackageFiles": [],

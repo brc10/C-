@@ -12,6 +12,7 @@ namespace BO
         public DateTime? EndSale { get; set; }
 
         // הבנאי (Constructor)
+        public Sale() { }
         public Sale(int id, int productId, int requiredAmount, double salePrice, bool onlyClub, DateTime beginSale, DateTime? endSale)
         {
             this.Id = id;

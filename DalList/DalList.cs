@@ -15,6 +15,6 @@ internal sealed class DalList : IDal
     private DalList() { }
     public ICastumer castumer => new CastumerImplemantion();
     public Iproduct product => new ProdactImlemention();
-    public Isail sail => new SailImlemention();
+    public Isale sail => new SaleImlemention();
 }
 

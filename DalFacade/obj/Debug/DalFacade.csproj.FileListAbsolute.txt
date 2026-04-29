@@ -32,7 +32,15 @@ M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade
 M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalFacade\obj\Debug\refint\DalFacade.dll
 M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.pdb
 M:\רחלי ברכה וחיה\DotNet2026_6847_3124\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalFacade.deps.json
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalFacade.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\bin\DalFacade.pdb
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
 C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\DalFacade.pdb
+C:\learn\c# מתקדם\פרויקט\DotNet2026_6847_3124\DalFacade\obj\Debug\ref\DalFacade.dll

@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "4w/tdgnbW5E=",
+=======
+  "dgSpecHash": "52rXc23oOpU=",
+>>>>>>> 694fd00deb8431271c3bf2bc0f54f2476e621e5c
   "success": true,
   "projectFilePath": "E:\\שנה ב\\פרויקט1\\BL\\BL.csproj",
   "expectedPackageFiles": [],
