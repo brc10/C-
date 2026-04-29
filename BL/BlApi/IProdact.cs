@@ -7,13 +7,13 @@ using BL.BO;
 
 namespace BO
 {
-    internal interface IProdact<T>
+    internal interface IProdact
     {
-        int Create(T item);
+        int Create(Prodact item);
         T? Read(int id);
-        T? Read(Func<T, bool> filter);
-        IEnumerable<T?> ReadAll(Func<T, bool>? filter = null);
-        void Update(T item);
+        T? Read(Func<Prodact, bool> filter);
+        IEnumerable<Prodact?> ReadAll(Func<Prodact, bool>? filter = null);
+        void Update(Prodact item);
         void Delete(int id);
         //פונקציה שבודקת מוצר במבצע ולקוח מועדף
         void Chek(ProductInOrder p, bool isSpecial);

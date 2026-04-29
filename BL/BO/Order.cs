@@ -28,7 +28,7 @@ namespace BL.BO
         public double finalPrice { get; set; }
         public string CustomerName { get; set; }
 
-        //public override string ToString() => ToStringProperty();
+        public override string ToString() => ToStringProperty();
 
         public Order(bool favorite, List<ProductInOrder> products, double finalPrice)
         {

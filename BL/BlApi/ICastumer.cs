@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace BO
 {
-    internal interface ICastumer<T>
+    internal interface ICastumer
     {
-        int Create(T item);
+        int Create(Castumer item);
         T? Read(int id);
-        T? Read(Func<T, bool> filter);
-        IEnumerable<T?> ReadAll(Func<T, bool>? filter = null);
-        void Update(T item);
+        T? Read(Func<Castumer, bool> filter);
+        IEnumerable<Castumer?> ReadAll(Func<Castumer, bool>? filter = null);
+        void Update(Castumer item);
         void Delete(int id);
         public bool IsCustomerExist();
     }

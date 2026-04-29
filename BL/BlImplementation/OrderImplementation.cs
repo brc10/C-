@@ -9,7 +9,7 @@ using BL.BO;
 namespace BlImplementation
 {
     internal class OrderImplementation 
-        //: IOrder
+        : IOrder
     {
         private readonly IDal dal = Factory.Get;
 

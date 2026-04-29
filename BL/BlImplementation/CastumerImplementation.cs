@@ -7,8 +7,8 @@ using BO;
 
 namespace BlImplementation
 {
-    internal interface CastumerImplementation:ICastumer<int>
+    internal interface CastumerImplementation : ICastumer
     {
-  
+
     }
 }
